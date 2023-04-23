@@ -21,7 +21,7 @@
 title: smartmontools
 email: contact@dipohl.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Control and monitor storage systems using the Self-Monitoring, Analysis and Reporting Technology System
+  Monitor storage systems using the Self-Monitoring, Analysis and Reporting Technology System
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

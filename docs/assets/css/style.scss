@@ -10,3 +10,19 @@ h1.header {
         font-size: 24px;
 }
 
+@media print, screen and (max-width: 480px) {
+
+  header ul li.download {
+    display:block;
+  }
+
+        footer {
+                margin: 0 0 0 20px;
+        }
+
+        footer a{
+                display:block;
+        }
+
+}
+
