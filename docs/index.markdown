@@ -3,8 +3,6 @@ layout: default
 title: smartmontools
 ---
 
-| [Docs](/docs.html) | [FAQ](/faq.html) | [Help](/help.html) | [Device Support](/devices.html) | [Links](/links.html) | 
-
 ## News
 <ul>
     <li><code>2022-10-10</code>: <strong>20th anniversary</strong> of <a href="/changeset/13">smartmontools first release</a> - see also <a class="wiki" href="/wiki/History">smartmontools history</a>.</li>
