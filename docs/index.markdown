@@ -3,6 +3,9 @@ layout: default
 title: smartmontools
 ---
 
+# Smartmontools Home
+
+**Table of Contents**
 * TOC
 {:toc}
 
