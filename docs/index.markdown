@@ -3,6 +3,9 @@ layout: default
 title: smartmontools
 ---
 
+* TOC
+{:toc}
+
 ## News
 <ul>
     <li><code>2022-10-10</code>: <strong>20th anniversary</strong> of <a class="ext-link" href="https://trac.smartmontools.org/changeset/13"><span class="icon"></span>smartmontools first release</a> - see also <a class="wiki" href="/history.html">smartmontools history</a>.</li>
@@ -88,14 +91,10 @@ For those who prefer to use git and GitHub we maintain an <a class="ext-link" hr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CodeQL scanning: <sub><a style="padding:0; border:none" href="https://github.com/smartmontools/smartmontools/security/code-scanning"><img src="/assets/images/badge.svg" alt="..." title="CodeQL scanning" /></a></sub>
 
 ### Incident Reports
-<p>
 If you see a failure or have a problem with <a href="/developer.html#Facilities">our project facilities</a> you may report it to
 <code>smartmontools-devel@listi.jpberlin.de</code>. You don't need to be subscribed for that. Your mail will then go to the list moderator and she will take action to solve the issue.
-</p>
-### License
-<p>
-Smartmontools (and content of this website) are published under <a class="ext-link" href="https://www.gnu.org/licenses/gpl-2.0.html#SEC1"><span class="icon"></span>GNU GPL</a>.
-</p>
 
+## License
+Smartmontools (and content of this website) are published under <a class="ext-link" href="https://www.gnu.org/licenses/gpl-2.0.html#SEC1"><span class="icon"></span>GNU GPL</a>.
 
 [top](./)
