@@ -70,6 +70,10 @@ a.ziplink .icon {
   border-bottom: none;
  }
 
+a.footnote {
+ vertical-align: super;
+}
+
 @media print, screen and (max-width: 480px) {
 
   header ul li.download {
