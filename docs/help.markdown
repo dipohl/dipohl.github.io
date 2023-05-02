@@ -100,4 +100,5 @@ In case of problems with your Trac registration write to the <a class="ext-link"
 ## License
 Smartmontools (and content of this website) are published under <a class="ext-link" href="https://www.gnu.org/licenses/gpl-2.0.html#SEC1"><span class="icon"></span>GNU GPL</a> if not otherwise explicitly declared in context of a contributed section or page.
 
+---
 [top](./help.html)
