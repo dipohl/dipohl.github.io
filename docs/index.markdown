@@ -98,6 +98,6 @@ If you see a failure or have a problem with <a href="/developer.html#Facilities"
 <code>smartmontools-devel@listi.jpberlin.de</code>. You don't need to be subscribed for that. Your mail will then go to the list moderator and she will take action to solve the issue.
 
 ## License
-Smartmontools (and content of this website) are published under <a class="ext-link" href="https://www.gnu.org/licenses/gpl-2.0.html#SEC1"><span class="icon"></span>GNU GPL</a>.
+Smartmontools (and content of this website) are published under <a class="ext-link" href="https://www.gnu.org/licenses/gpl-2.0.html#SEC1"><span class="icon"></span>GNU GPL</a> if not otherwise explicitly declared in context of a contributed section or page.
 
 [top](./)
