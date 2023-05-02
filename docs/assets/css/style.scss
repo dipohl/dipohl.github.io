@@ -64,6 +64,12 @@ a.ext-link .icon {
   padding-left: 15px;
 }
 
+a.ziplink .icon {
+  background: url('../images/download.png') right center no-repeat;
+  padding-right: 16px;
+  border-bottom: none;
+ }
+
 @media print, screen and (max-width: 480px) {
 
   header ul li.download {
