@@ -11,10 +11,10 @@ RAID controllers typically simulate a (logical) disk for each array of (physical
 | --------------- | :---: | :-----: | :-----: |
 | LSI 3ware SATA RAID controller | `-d 3ware,N /dev/twX` [^1] | `-d 3ware,N /dev/twX` [^2] | `/dev/sdX,N` [^3] |
 | Areca SATA[/SAS] RAID controller | `-d areca,N[/E] /dev/sgX` [^4] | `-d areca,N[/E] /dev/arcmsrX` [^11] | `-d areca,N[/E] /dev/arcmsrX` [^12] |
-| HighPoint RocketRAID SATA RAID controller | `-d hpt,L/M/N /dev/sdX`[^5] | `-d hpt,L/M/N /dev/hptX` [^6] | - |
+| HighPoint RocketRAID SATA RAID controller | `-d hpt,L/M/N /dev/sdX` [^5] | `-d hpt,L/M/N /dev/hptX` [^6] | - |
 | CCISS (HP/Compaq Smart Array Controller) | `-d cciss,N /dev/sgX` [^7] | `-d cciss,N /dev/cissX` | - |
 | LSI MegaRAID SAS RAID controller Dell PERC 5/i,6/i controller | `-d megaraid,N /dev/sdX` [^8] | `/dev/passX, -d megaraid,N /dev/mrsasX` [^9] | `/dev/csmiX,N` [^13] |
-| Intel ICHxR RAID (Intel Rapid/Matrix Storage) | `/dev/sdX` | `/dev/adX` | `/dev/csmiX,N`[^10] |
+| Intel ICHxR RAID (Intel Rapid/Matrix Storage) | `/dev/sdX` | `/dev/adX` | `/dev/csmiX,N` [^10] |
 | Adaptec SAS RAID controller (devices supported by <a class="ext-link" href="https://www.kernel.org/doc/Documentation/scsi/aacraid.txt"><span class="icon"></span>aacraid driver</a>) | `-d aacraid,H,L,ID /dev/sdX` [^14] | - | `-d aacraid,H,L,ID /dev/sdX` [^15] |
 
 See the notes below and the <a class="ext-link" href="https://trac.smartmontools.org/browser/trunk/smartmontools/INSTALL"><span class="icon"></span>INSTALL</a><a class="ziplink" href="https://trac.smartmontools.org/export/HEAD/trunk/smartmontools/INSTALL" title="Download"><span class="icon"></span></a> file for information about kernel and driver requirements on your platform.
